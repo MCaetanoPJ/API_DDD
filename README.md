@@ -16,7 +16,6 @@ Criar API REST com autenticação JWT seguindo a metodologia DDD para realizar u
   BirthDay: DateTime
   LastAcess: DateTime
   CreateDate: DateTime
-  Type: FK_Id_ 
   }
   ~~~
 
