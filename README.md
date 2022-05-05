@@ -84,7 +84,9 @@ UserName: string
 
 <details>
   <summary><b>1 - Aplication</b></summary>
-  - Controller
+  
+  - Controllers
+
 </details>
 <p>
 
@@ -92,8 +94,9 @@ UserName: string
   <summary><b>3 - Domain</b></summary>
   
   - DTO
-  
   - Entities
+  - Interfaces
+  - Utils
 
 </details>
 <p>
@@ -101,7 +104,8 @@ UserName: string
 <details>
   <summary><b>3 - Service</b></summary>
   
-  - 
+  - Interfaces
+  - Services
 
 </details>
 <p>
@@ -109,7 +113,9 @@ UserName: string
 <details>
   <summary><b>3 - Infra</b></summary>
   
-  - Aplication teste
+  - Context
+  - Mapping
+  - Repository
 
 </details>
 <p>
